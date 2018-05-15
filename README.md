@@ -1,2 +1,2 @@
-# niginx-demo
-niginx学习笔记与相关代码
+# nginx-demo
+nginx学习笔记与相关代码
