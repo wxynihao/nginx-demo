@@ -4,14 +4,9 @@
 
 1. [目录](Note/Nginx_目录.md)
 
-## 重点内容
+## 常用内容
 
-1. [概述](Note/Nginx_概述.md)
-
-1. [配置语法](Note/Nginx_配置语法.md)
-
-
-
+1. [Nginx_安装与配置](Nginx_安装与配置.md)
 
 ## 参考资料
 1. nginx, http://nginx.org/
